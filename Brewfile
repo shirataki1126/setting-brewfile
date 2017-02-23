@@ -7,6 +7,7 @@ tap caskroom/cask
 cask android-studio
 cask atom
 cask au-lab
+cask coteditor
 cask eclipse-ide
 cask gimp
 cask java
