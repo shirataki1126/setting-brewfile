@@ -38,18 +38,26 @@ tap homebrew/core
 brew autoconf
 brew automake
 brew cmake
+brew ctags
+brew curl
+brew freetype
 brew gdbm
 brew gettext
 brew gmp
+brew icu4c
 brew jemalloc
+brew jpeg
 brew libffi
 brew libgpg-error
+brew libpng
+brew libssh2
 brew libtasn1
 brew libtermkey
 brew libtool
 brew libunistring
 brew libuv
 brew libvterm
+brew libxml2
 brew libyaml
 brew lv
 brew mas
@@ -72,6 +80,7 @@ brew sqlite
 brew ssh-copy-id
 brew tomcat
 brew unibilium
+brew unixodbc
 brew vim
 brew wget
 brew xz
@@ -81,6 +90,9 @@ tap homebrew/dupes
 tap homebrew/fuse
 brew ext4fuse
 brew ntfs-3g
+
+tap homebrew/php
+brew php71
 
 tap neovim/neovim
 brew neovim
@@ -97,6 +109,6 @@ appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (4.3)
 appstore 539883307 Line (4.12.1)
-appstore 823766827 OneDrive (17.3.6783)
-appstore 803453959 Slack (2.5.1)
+appstore 823766827 OneDrive (17.3.6798)
+appstore 803453959 Slack (2.5.2)
 appstore 497799835 Xcode (8.2.1)
