@@ -4,6 +4,7 @@
 tap beeftornado/rmtree
 
 tap caskroom/cask
+cask 0xed
 cask android-studio
 cask atom
 cask au-lab
