@@ -14,6 +14,7 @@ cask gimp
 cask java
 cask keka
 cask mactex
+cask netbeans-java-ee
 cask nosleep
 cask osxfuse
 cask shupapan
