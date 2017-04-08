@@ -72,7 +72,7 @@ brew perl
 brew pkg-config
 brew python
 brew python3
-brew qt5
+brew qt
 brew rbenv
 brew readline
 brew rename
