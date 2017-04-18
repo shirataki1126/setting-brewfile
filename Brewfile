@@ -5,6 +5,7 @@ tap beeftornado/rmtree
 
 tap caskroom/cask
 cask 0xed
+cask anaconda
 cask android-studio
 cask atom
 cask au-lab
@@ -105,12 +106,12 @@ brew brew-file
 # App Store applications
 appstore 847809913 Download Shuttle (2.2)
 appstore 408980954 GarageBand (6.0.5)
-appstore 408981434 iMovie (10.1.4)
+appstore 408981434 iMovie (10.1.5)
 appstore 1127487414 Install macOS Sierra (12.2.06)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (4.3)
-appstore 539883307 Line (4.12.2)
+appstore 539883307 Line (5.1.1)
 appstore 823766827 OneDrive (17.3.6798)
 appstore 803453959 Slack (2.5.2)
 appstore 497799835 Xcode (8.2.1)
