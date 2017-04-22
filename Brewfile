@@ -43,6 +43,7 @@ brew automake
 brew cmake
 brew ctags
 brew curl
+brew ext4fuse
 brew freetype
 brew gdbm
 brew gettext
@@ -66,6 +67,7 @@ brew lv
 brew mas
 brew msgpack
 brew nettle
+brew ntfs-3g
 brew openssl
 brew p11-kit
 brew pcre
@@ -91,8 +93,6 @@ brew xz
 tap homebrew/dupes
 
 tap homebrew/fuse
-brew ext4fuse
-brew ntfs-3g
 
 tap homebrew/php
 brew php71
