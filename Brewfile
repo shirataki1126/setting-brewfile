@@ -6,8 +6,6 @@ tap beeftornado/rmtree
 tap caskroom/cask
 cask 0xed
 cask anaconda
-cask android-studio
-cask atom
 cask au-lab
 cask coteditor
 cask eclipse-ide
