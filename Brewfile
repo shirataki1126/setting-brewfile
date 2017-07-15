@@ -45,6 +45,9 @@ brew freetype
 brew gcc
 brew gdbm
 brew gettext
+brew git
+brew git-flow
+brew git-lfs
 brew gmp
 brew icu4c
 brew isl
@@ -71,6 +74,7 @@ brew neovim
 brew nettle
 brew ntfs-3g
 brew numpy --with-python3
+brew openssh
 brew openssl
 brew openssl@1.1
 brew p11-kit
