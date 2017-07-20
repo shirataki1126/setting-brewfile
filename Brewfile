@@ -40,6 +40,7 @@ brew automake
 brew cmake
 brew ctags
 brew curl
+brew eigen
 brew ext4fuse
 brew freetype
 brew gcc
@@ -50,6 +51,7 @@ brew git-flow
 brew git-lfs
 brew gmp
 brew icu4c
+brew ilmbase
 brew isl
 brew jemalloc
 brew jpeg
@@ -60,6 +62,7 @@ brew libpng
 brew libssh2
 brew libtasn1
 brew libtermkey
+brew libtiff
 brew libtool
 brew libunistring
 brew libuv
@@ -72,8 +75,10 @@ brew mpfr
 brew msgpack
 brew neovim
 brew nettle
+brew node
 brew ntfs-3g
 brew numpy --with-python3
+brew openexr
 brew openssh
 brew openssl
 brew openssl@1.1
@@ -105,6 +110,9 @@ tap homebrew/fuse
 
 tap homebrew/php
 brew php71
+
+tap homebrew/science
+brew opencv3
 
 tap neovim/neovim
 
