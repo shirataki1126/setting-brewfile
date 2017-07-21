@@ -9,6 +9,8 @@ cask au-lab
 cask coteditor
 cask eclipse-ide
 cask gimp
+cask google-hangouts
+cask google-japanese-ime
 cask java
 cask keka
 cask mactex
