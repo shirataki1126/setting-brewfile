@@ -7,15 +7,19 @@ tap caskroom/cask
 cask 0xed
 cask au-lab
 cask coteditor
+cask dropbox
 cask eclipse-ide
 cask gimp
+cask google-chrome
 cask google-hangouts
 cask google-japanese-ime
 cask java
 cask keka
 cask mactex
+cask mamp
 cask netbeans-java-ee
 cask nosleep
+cask onyx
 cask osxfuse
 cask shupapan
 cask skim
@@ -28,6 +32,7 @@ cask virtualbox-extension-pack
 cask virtualbox
 cask visual-studio-code
 cask vlc
+cask wireshark
 cask xquartz
 
 tap caskroom/eid
