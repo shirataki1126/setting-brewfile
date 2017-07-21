@@ -6,6 +6,7 @@ tap beeftornado/rmtree
 tap caskroom/cask
 cask 0xed
 cask au-lab
+cask console
 cask coteditor
 cask dropbox
 cask eclipse-ide
