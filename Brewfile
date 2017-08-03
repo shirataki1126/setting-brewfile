@@ -47,7 +47,7 @@ brew autoconf
 brew automake
 brew cmake
 brew ctags
-brew curl
+brew curl --with-libssh2 --with-openssl
 brew eigen
 brew ext4fuse
 brew freetype
@@ -85,7 +85,7 @@ brew neovim
 brew nettle
 brew node
 brew ntfs-3g
-brew numpy --with-python3
+brew numpy
 brew openexr
 brew openssh
 brew openssl
@@ -120,7 +120,7 @@ tap homebrew/php
 brew php71
 
 tap homebrew/science
-brew opencv3
+brew opencv3 --without-python --with-python3
 
 tap neovim/neovim
 
