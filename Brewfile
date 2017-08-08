@@ -128,6 +128,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+appstore 926707738 Countdowns (1.3)
 appstore 847809913 Download Shuttle (2.2)
 appstore 408980954 GarageBand (6.0.5)
 appstore 408981434 iMovie (10.1.6)
