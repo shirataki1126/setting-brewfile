@@ -45,11 +45,13 @@ tap caskroom/versions
 tap homebrew/core
 brew autoconf
 brew automake
+brew bash-completion
 brew cmake
 brew ctags
 brew curl --with-libssh2 --with-openssl
 brew eigen
 brew ext4fuse
+brew ffmpeg
 brew freetype
 brew gcc
 brew gdbm
@@ -63,8 +65,10 @@ brew ilmbase
 brew isl
 brew jemalloc
 brew jpeg
+brew lame
 brew libffi
 brew libgpg-error
+brew libiconv
 brew libmpc
 brew libpng
 brew libssh2
@@ -86,6 +90,7 @@ brew nettle
 brew node
 brew ntfs-3g
 brew numpy
+brew opencv --without-python
 brew openexr
 brew openssh
 brew openssl
@@ -108,8 +113,11 @@ brew ssh-copy-id
 brew tomcat
 brew unibilium
 brew unixodbc
+brew vagrant-completion
 brew vim
 brew wget
+brew x264
+brew xvid
 brew xz
 
 tap homebrew/dupes
@@ -120,7 +128,6 @@ tap homebrew/php
 brew php71
 
 tap homebrew/science
-brew opencv3 --without-python --with-python3
 
 tap neovim/neovim
 
