@@ -43,30 +43,46 @@ tap caskroom/fonts
 tap caskroom/versions
 
 tap homebrew/core
+brew atk
 brew autoconf
 brew automake
 brew bash-completion
+brew cairo
 brew cmake
 brew ctags
 brew curl --with-libssh2 --with-openssl
 brew eigen
 brew ext4fuse
 brew ffmpeg
+brew fontconfig
 brew freetype
 brew gcc
 brew gdbm
+brew gdk-pixbuf
 brew gettext
 brew git
 brew git-flow
 brew git-lfs
+brew glib
 brew gmp
+brew gnutls
+brew gobject-introspection
+brew graphite2
+brew gsettings-desktop-schemas
+brew gtk+3
+brew gtk-vnc
+brew harfbuzz
+brew hicolor-icon-theme
 brew icu4c
 brew ilmbase
+brew intltool
 brew isl
 brew jemalloc
 brew jpeg
 brew lame
+brew libepoxy
 brew libffi
+brew libgcrypt
 brew libgpg-error
 brew libiconv
 brew libmpc
@@ -77,7 +93,9 @@ brew libtermkey
 brew libtiff
 brew libtool
 brew libunistring
+brew libusb
 brew libuv
+brew libvirt
 brew libvterm
 brew libxml2
 brew libyaml
@@ -96,8 +114,10 @@ brew openssh
 brew openssl
 brew openssl@1.1
 brew p11-kit
+brew pango
 brew pcre
 brew perl
+brew pixman
 brew pkg-config
 brew pyenv
 brew python
@@ -108,17 +128,20 @@ brew readline
 brew rename
 brew ruby
 brew ruby-build
+brew shared-mime-info
 brew sqlite
 brew ssh-copy-id
 brew tomcat
 brew unibilium
 brew unixodbc
 brew vagrant-completion
+brew vala
 brew vim
 brew wget
 brew x264
 brew xvid
 brew xz
+brew yajl
 
 tap homebrew/dupes
 
@@ -128,6 +151,13 @@ tap homebrew/php
 brew php71
 
 tap homebrew/science
+
+tap jeffreywildman/virt-manager
+brew libvirt-glib
+brew spice-gtk
+brew spice-protocol
+brew usbredir
+brew virt-viewer
 
 tap neovim/neovim
 
