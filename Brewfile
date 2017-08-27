@@ -48,9 +48,11 @@ brew autoconf
 brew automake
 brew bash-completion
 brew cairo
+brew check
 brew cmake
 brew ctags
 brew curl --with-libssh2 --with-openssl
+brew dbus
 brew eigen
 brew ext4fuse
 brew ffmpeg
@@ -64,7 +66,9 @@ brew git
 brew git-flow
 brew git-lfs
 brew glib
+brew glib-networking
 brew gmp
+brew gnome-icon-theme
 brew gnutls
 brew gobject-introspection
 brew graphite2
@@ -80,13 +84,17 @@ brew isl
 brew jemalloc
 brew jpeg
 brew lame
+brew libcroco
 brew libepoxy
 brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libiconv
 brew libmpc
+brew libosinfo
 brew libpng
+brew librsvg
+brew libsoup
 brew libssh2
 brew libtasn1
 brew libtermkey
@@ -103,12 +111,13 @@ brew lv
 brew mas
 brew mpfr
 brew msgpack
+brew mysql
 brew neovim
 brew nettle
 brew node
 brew ntfs-3g
 brew numpy
-brew opencv --without-python
+brew opencv
 brew openexr
 brew openssh
 brew openssl
@@ -116,10 +125,13 @@ brew openssl@1.1
 brew p11-kit
 brew pango
 brew pcre
+brew pcre2
 brew perl
 brew pixman
 brew pkg-config
+brew py2cairo
 brew pyenv
+brew pygobject3
 brew python
 brew python3
 brew qt
@@ -137,6 +149,7 @@ brew unixodbc
 brew vagrant-completion
 brew vala
 brew vim
+brew vte3
 brew wget
 brew x264
 brew xvid
@@ -157,6 +170,7 @@ brew libvirt-glib
 brew spice-gtk
 brew spice-protocol
 brew usbredir
+brew virt-manager
 brew virt-viewer
 
 tap neovim/neovim
@@ -165,7 +179,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 926707738 Countdowns (1.3)
+appstore 926707738 Countdowns (1.3.1)
 appstore 847809913 Download Shuttle (2.2)
 appstore 408980954 GarageBand (6.0.5)
 appstore 408981434 iMovie (10.1.6)
@@ -173,7 +187,7 @@ appstore 1127487414 Install macOS Sierra (12.2.06)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (4.3)
-appstore 539883307 Line (5.2.2)
+appstore 539883307 Line (5.3.0)
 appstore 823766827 OneDrive (17.3.6945)
 appstore 803453959 Slack (2.7.1)
 appstore 497799835 Xcode (8.2.1)
