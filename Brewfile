@@ -130,6 +130,7 @@ brew pcre2
 brew perl
 brew pixman
 brew pkg-config
+brew postgresql
 brew py2cairo
 brew pyenv
 brew pygobject3
@@ -162,7 +163,8 @@ tap homebrew/dupes
 tap homebrew/fuse
 
 tap homebrew/php
-brew php71
+brew composer
+brew php71 --with-postgresql --with-homebrew-curl
 
 tap homebrew/science
 
