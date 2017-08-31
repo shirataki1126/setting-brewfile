@@ -47,6 +47,7 @@ brew atk
 brew autoconf
 brew automake
 brew bash-completion
+brew brew-cask-completion
 brew cairo
 brew check
 brew cmake
@@ -177,6 +178,12 @@ tap neovim/neovim
 
 tap rcmdnk/file
 brew brew-file
+
+# pip packages
+pip completion
+
+# gem packages
+gem completion
 
 # App Store applications
 appstore 926707738 Countdowns (1.3.1)
