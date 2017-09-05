@@ -164,7 +164,9 @@ tap homebrew/fuse
 
 tap homebrew/php
 brew composer
+brew php-code-sniffer
 brew php71 --with-postgresql --with-homebrew-curl
+brew php71-intl
 
 tap homebrew/science
 
