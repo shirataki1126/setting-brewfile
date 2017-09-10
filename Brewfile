@@ -18,6 +18,7 @@ cask java
 cask keka
 cask mactex
 cask mamp
+cask namechanger
 cask netbeans-java-ee
 cask nosleep
 cask onyx
@@ -51,6 +52,7 @@ brew brew-cask-completion
 brew cairo
 brew check
 brew cmake
+brew coreutils
 brew ctags
 brew curl --with-libssh2 --with-openssl
 brew dbus
@@ -60,6 +62,7 @@ brew ffmpeg
 brew fontconfig
 brew freetype
 brew gcc
+brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
@@ -73,6 +76,7 @@ brew gnome-icon-theme
 brew gnutls
 brew gobject-introspection
 brew graphite2
+brew graphviz
 brew gsettings-desktop-schemas
 brew gtk+3
 brew gtk-vnc
@@ -152,6 +156,7 @@ brew vagrant-completion
 brew vala
 brew vim
 brew vte3
+brew webp
 brew wget
 brew x264
 brew xvid
