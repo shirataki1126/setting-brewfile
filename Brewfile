@@ -150,6 +150,7 @@ brew shared-mime-info
 brew sqlite
 brew ssh-copy-id
 brew tomcat
+brew trash-cli
 brew unibilium
 brew unixodbc
 brew vagrant-completion
