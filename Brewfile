@@ -44,11 +44,13 @@ tap caskroom/fonts
 tap caskroom/versions
 
 tap homebrew/core
+brew adwaita-icon-theme
 brew atk
 brew autoconf
 brew automake
 brew bash-completion
 brew brew-cask-completion
+brew bundler-completion
 brew cairo
 brew check
 brew cmake
@@ -56,6 +58,7 @@ brew coreutils
 brew ctags
 brew curl --with-libssh2 --with-openssl
 brew dbus
+brew dylibbundler
 brew eigen
 brew ext4fuse
 brew ffmpeg
@@ -72,7 +75,6 @@ brew git-lfs
 brew glib
 brew glib-networking
 brew gmp
-brew gnome-icon-theme
 brew gnutls
 brew gobject-introspection
 brew graphite2
@@ -204,7 +206,7 @@ appstore 1127487414 Install macOS Sierra (12.2.06)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (4.3)
-appstore 539883307 Line (5.3.0)
-appstore 823766827 OneDrive (17.3.6945)
-appstore 803453959 Slack (2.7.1)
+appstore 539883307 Line (5.3.2)
+appstore 823766827 OneDrive (17.3.6967)
+appstore 803453959 Slack (2.8.0)
 appstore 497799835 Xcode (8.2.1)
