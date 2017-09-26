@@ -5,6 +5,7 @@ tap beeftornado/rmtree
 
 tap caskroom/cask
 cask 0xed
+cask adobe-acrobat-reader
 cask au-lab
 cask console
 cask coteditor
@@ -23,6 +24,8 @@ cask netbeans-java-ee
 cask nosleep
 cask onyx
 cask osxfuse
+cask scilab
+cask sequential
 cask shupapan
 cask skim
 cask soundflower
@@ -206,7 +209,7 @@ appstore 1127487414 Install macOS Sierra (12.2.06)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (4.3)
-appstore 539883307 Line (5.3.2)
+appstore 539883307 Line (5.3.3)
 appstore 823766827 OneDrive (17.3.6967)
 appstore 803453959 Slack (2.8.0)
 appstore 497799835 Xcode (8.2.1)
