@@ -1,51 +1,6 @@
 
 # tap repositories and their packages
 
-tap beeftornado/rmtree
-
-tap caskroom/cask
-cask 0xed
-cask adobe-acrobat-reader
-cask au-lab
-cask console
-cask coteditor
-cask dropbox
-cask eclipse-ide
-cask gimp
-cask google-chrome
-cask google-hangouts
-cask google-japanese-ime
-cask java
-cask keka
-cask mactex
-cask mamp
-cask namechanger
-cask netbeans-java-ee
-cask nosleep
-cask onyx
-cask osxfuse
-cask scilab
-cask sequential
-cask shupapan
-cask skim
-cask soundflower
-cask soundflowerbed
-cask sourcetree
-cask the-unarchiver
-cask vagrant
-cask virtualbox-extension-pack
-cask virtualbox
-cask visual-studio-code
-cask vlc
-cask wireshark
-cask xquartz
-
-tap caskroom/eid
-
-tap caskroom/fonts
-
-tap caskroom/versions
-
 tap homebrew/core
 brew adwaita-icon-theme
 brew atk
@@ -180,6 +135,53 @@ brew php71 --with-postgresql --with-homebrew-curl
 brew php71-intl
 
 tap homebrew/science
+
+tap caskroom/cask
+cask 0xed
+cask adobe-acrobat-reader
+cask au-lab
+cask console
+cask coteditor
+cask dropbox
+cask eclipse-ide
+cask gimp
+cask google-chrome
+cask google-hangouts
+cask google-japanese-ime
+cask java
+cask keka
+cask mactex
+cask mamp
+cask namechanger
+cask netbeans-java-ee
+cask nosleep
+cask onyx
+cask osxfuse
+cask scenebuilder
+cask scilab
+cask sequential
+cask shupapan
+cask skim
+cask soundflower
+cask soundflowerbed
+cask sourcetree
+cask the-unarchiver
+cask vagrant
+cask virtualbox-extension-pack
+cask virtualbox
+cask visual-studio-code
+cask vlc
+cask wireshark
+cask xquartz
+
+tap caskroom/eid
+
+tap caskroom/fonts
+
+tap caskroom/versions
+cask java8
+
+tap beeftornado/rmtree
 
 tap jeffreywildman/virt-manager
 brew libvirt-glib
