@@ -109,6 +109,7 @@ brew ruby-build
 brew shared-mime-info
 brew sqlite
 brew ssh-copy-id
+brew tbb
 brew tomcat
 brew trash-cli
 brew unibilium
@@ -213,5 +214,5 @@ appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (4.3)
 appstore 539883307 Line (5.3.3)
 appstore 823766827 OneDrive (17.3.6967)
-appstore 803453959 Slack (2.8.1)
+appstore 803453959 Slack (2.8.2)
 appstore 497799835 Xcode (8.2.1)
