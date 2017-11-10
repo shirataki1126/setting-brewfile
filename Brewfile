@@ -72,6 +72,7 @@ brew libvirt
 brew libvterm
 brew libxml2
 brew libyaml
+brew luajit
 brew lv
 brew mas
 brew mpfr
