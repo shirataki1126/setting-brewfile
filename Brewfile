@@ -161,6 +161,7 @@ cask onyx
 cask osxfuse
 cask scenebuilder
 cask scilab
+cask sequel-pro
 cask sequential
 cask shupapan
 cask skim
@@ -213,7 +214,7 @@ appstore 1127487414 Install macOS Sierra (12.2.06)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (4.3)
-appstore 539883307 Line (5.4.1)
+appstore 539883307 Line (5.4.2)
 appstore 823766827 OneDrive (17.3.7078)
-appstore 803453959 Slack (2.8.2)
+appstore 803453959 Slack (2.9.0)
 appstore 497799835 Xcode (8.2.1)
