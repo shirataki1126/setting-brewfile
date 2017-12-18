@@ -16,6 +16,7 @@ brew coreutils
 brew ctags
 brew curl --with-libssh2 --with-openssl
 brew dbus
+brew doxygen
 brew dylibbundler
 brew eigen
 brew ext4fuse
@@ -27,12 +28,14 @@ brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew giflib
 brew git
 brew git-flow
 brew git-lfs
 brew glib
 brew glib-networking
 brew gmp
+brew gnu-getopt
 brew gnutls
 brew gobject-introspection
 brew graphite2
@@ -44,6 +47,7 @@ brew harfbuzz
 brew hicolor-icon-theme
 brew icu4c
 brew ilmbase
+brew imagemagick
 brew intltool
 brew isl
 brew jemalloc
@@ -56,6 +60,7 @@ brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libiconv
+brew libidn2
 brew libmpc
 brew libosinfo
 brew libpng
@@ -73,11 +78,13 @@ brew libvirt
 brew libvterm
 brew libxml2
 brew libyaml
+brew little-cms2
 brew luajit
 brew lv
 brew mas
 brew mpfr
 brew msgpack
+brew mupdf
 brew mysql
 brew neovim
 brew nettle
@@ -87,6 +94,8 @@ brew numpy
 brew oniguruma
 brew opencv
 brew openexr
+brew openjpeg
+brew openmotif
 brew openssh
 brew openssl
 brew openssl@1.1
@@ -94,6 +103,7 @@ brew p11-kit
 brew pango
 brew pcre
 brew pcre2
+brew pdf2htmlex
 brew perl
 brew pixman
 brew pkg-config
@@ -103,6 +113,7 @@ brew pyenv
 brew pygobject3
 brew python
 brew python3
+brew qpdf
 brew qt
 brew rbenv
 brew readline
@@ -115,6 +126,7 @@ brew ssh-copy-id
 brew tbb
 brew tomcat
 brew trash-cli
+brew ttfautohint
 brew unibilium
 brew unixodbc
 brew vagrant-completion
@@ -219,6 +231,6 @@ appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (4.3.2)
 appstore 539883307 Line (5.4.2)
-appstore 823766827 OneDrive (17.3.7078)
-appstore 803453959 Slack (2.9.0)
+appstore 823766827 OneDrive (17.3.7131)
+appstore 803453959 Slack (3.0.0)
 appstore 497799835 Xcode (8.2.1)
