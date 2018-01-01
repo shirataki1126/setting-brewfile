@@ -121,6 +121,7 @@ brew rename
 brew ruby
 brew ruby-build
 brew shared-mime-info
+brew smartmontools
 brew sqlite
 brew ssh-copy-id
 brew tbb
@@ -230,7 +231,7 @@ appstore 1127487414 Install macOS Sierra (12.2.06)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (4.3.2)
-appstore 539883307 Line (5.4.2)
+appstore 539883307 Line (5.5.1)
 appstore 823766827 OneDrive (17.3.7131)
 appstore 803453959 Slack (3.0.0)
 appstore 497799835 Xcode (8.2.1)
