@@ -3,12 +3,19 @@
 
 tap homebrew/core
 brew adwaita-icon-theme
+brew apr
+brew apr-util
 brew atk
 brew autoconf
 brew automake
 brew bash-completion
+brew boost
 brew brew-cask-completion
+brew brew-gem
+brew brew-pip
+brew brotli
 brew bundler-completion
+brew c-ares
 brew cairo
 brew check
 brew cmake
@@ -22,6 +29,7 @@ brew eigen
 brew ext4fuse
 brew ffmpeg
 brew fontconfig
+brew freetds
 brew freetype
 brew gcc
 brew gd
@@ -45,17 +53,21 @@ brew gtk+3
 brew gtk-vnc
 brew harfbuzz
 brew hicolor-icon-theme
+brew httpd
 brew icu4c
 brew ilmbase
 brew imagemagick
 brew intltool
 brew isl
+brew jansson
 brew jemalloc
 brew jpeg
 brew jq
 brew lame
 brew libcroco
 brew libepoxy
+brew libev
+brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
@@ -88,6 +100,7 @@ brew mupdf
 brew mysql
 brew neovim
 brew nettle
+brew nghttp2
 brew node
 brew ntfs-3g
 brew numpy
@@ -98,7 +111,6 @@ brew openjpeg
 brew openmotif
 brew openssh
 brew openssl
-brew openssl@1.1
 brew p11-kit
 brew pango
 brew pcre
@@ -112,7 +124,7 @@ brew py2cairo
 brew pyenv
 brew pygobject3
 brew python
-brew python3
+brew python@2
 brew qpdf
 brew qt
 brew rbenv
@@ -120,6 +132,7 @@ brew readline
 brew rename
 brew ruby
 brew ruby-build
+brew ruby-completion
 brew shared-mime-info
 brew smartmontools
 brew sqlite
@@ -141,28 +154,19 @@ brew xvid
 brew xz
 brew yajl
 
-tap homebrew/dupes
-
-tap homebrew/fuse
-
 tap homebrew/php
 brew composer
-brew php-code-sniffer
-brew php71 --with-postgresql --with-homebrew-curl
-brew php71-intl
+brew php71
 
-tap homebrew/science
+tap homebrew/services
 
 tap caskroom/cask
 cask 0xed
-cask adobe-acrobat-reader
 cask au-lab
 cask console
 cask coteditor
 cask dropbox
-cask eclipse-ide
 cask gimp
-cask google-chrome
 cask google-hangouts
 cask google-japanese-ime
 cask java
@@ -203,12 +207,6 @@ cask java8
 tap beeftornado/rmtree
 
 tap jeffreywildman/virt-manager
-brew libvirt-glib
-brew spice-gtk
-brew spice-protocol
-brew usbredir
-brew virt-manager
-brew virt-viewer
 
 tap neovim/neovim
 
@@ -218,20 +216,13 @@ brew brew-file
 # pip packages
 pip completion
 
-# gem packages
-gem completion
-
 # App Store applications
-appstore 926707738 Countdowns (1.3.1)
+appstore 926707738 Countdowns (1.3.2)
 appstore 847809913 Download Shuttle (2.2)
-appstore 408980954 GarageBand (6.0.5)
-appstore 408981434 iMovie (10.1.6)
-appstore 0 Install macOS High Sierra (13.1.05)
-appstore 1127487414 Install macOS Sierra (12.2.06)
-appstore 1018109117 Install OS X El Capitan (1.7.50)
+appstore 408981434 iMovie (10.1.8)
+appstore 0 Install macOS High Sierra (13.3.02)
 appstore 408981381 iPhoto (9.6.1)
-appstore 472226235 LanScan (4.3.2)
-appstore 539883307 Line (5.5.1)
-appstore 823766827 OneDrive (17.3.7131)
-appstore 803453959 Slack (3.0.2)
-appstore 497799835 Xcode (8.2.1)
+appstore 472226235 LanScan (5.0)
+appstore 823766827 OneDrive (17.005.0107)
+appstore 803453959 Slack (3.0.5)
+appstore 497799835 Xcode (9.2)
