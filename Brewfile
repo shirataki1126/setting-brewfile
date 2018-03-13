@@ -3,8 +3,6 @@
 
 tap homebrew/core
 brew adwaita-icon-theme
-brew apr
-brew apr-util
 brew atk
 brew autoconf
 brew automake
@@ -13,7 +11,6 @@ brew boost
 brew brew-cask-completion
 brew brew-gem
 brew brew-pip
-brew brotli
 brew bundler-completion
 brew c-ares
 brew cairo
@@ -53,7 +50,6 @@ brew gtk+3
 brew gtk-vnc
 brew harfbuzz
 brew hicolor-icon-theme
-brew httpd
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -156,7 +152,6 @@ brew yajl
 
 tap homebrew/php
 brew composer
-brew php71
 
 tap homebrew/services
 
