@@ -5,8 +5,11 @@ tap homebrew/core
 brew adwaita-icon-theme
 brew atk
 brew autoconf
+brew autogen
 brew automake
 brew bash-completion
+brew bdw-gc
+brew bison
 brew boost
 brew brew-cask-completion
 brew brew-gem
@@ -46,8 +49,15 @@ brew gobject-introspection
 brew graphite2
 brew graphviz
 brew gsettings-desktop-schemas
+brew gst-libav
+brew gst-plugins-bad
+brew gst-plugins-base
+brew gst-plugins-good
+brew gst-plugins-ugly
+brew gstreamer
 brew gtk+3
 brew gtk-vnc
+brew guile
 brew harfbuzz
 brew hicolor-icon-theme
 brew icu4c
@@ -89,6 +99,7 @@ brew libyaml
 brew little-cms2
 brew luajit
 brew lv
+brew lz4
 brew mas
 brew mpfr
 brew msgpack
@@ -107,6 +118,8 @@ brew openjpeg
 brew openmotif
 brew openssh
 brew openssl
+brew openssl@1.1
+brew orc
 brew p11-kit
 brew pango
 brew pcre
@@ -152,6 +165,7 @@ brew yajl
 
 tap homebrew/php
 brew composer
+brew php-code-sniffer
 
 tap homebrew/services
 
@@ -202,6 +216,12 @@ cask java8
 tap beeftornado/rmtree
 
 tap jeffreywildman/virt-manager
+brew libvirt-glib
+brew spice-gtk
+brew spice-protocol
+brew usbredir
+brew virt-manager
+brew virt-viewer
 
 tap neovim/neovim
 
