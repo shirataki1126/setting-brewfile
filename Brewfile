@@ -31,6 +31,7 @@ brew ffmpeg
 brew fontconfig
 brew freetds
 brew freetype
+brew fribidi
 brew gcc
 brew gd
 brew gdbm
@@ -239,5 +240,5 @@ appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (5.0)
 appstore  Install macOS High Sierra (13302)
 appstore 823766827 OneDrive (17.005.0107)
-appstore 803453959 Slack (3.0.5)
+appstore 803453959 Slack (3.1.0)
 appstore 497799835 Xcode (9.2)
