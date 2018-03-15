@@ -229,7 +229,7 @@ tap neovim/neovim
 tap rcmdnk/file
 brew brew-file
 
-# pip packages
+# Other pip packages
 pip completion
 
 # App Store applications
