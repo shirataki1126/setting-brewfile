@@ -19,6 +19,7 @@ brew c-ares
 brew cairo
 brew check
 brew cmake
+brew composer
 brew coreutils
 brew ctags
 brew curl --with-libssh2 --with-openssl
@@ -131,6 +132,7 @@ brew pixman
 brew pkg-config
 brew postgresql
 brew py2cairo
+brew py3cairo
 brew pyenv
 brew pygobject3
 brew python
@@ -165,7 +167,6 @@ brew xz
 brew yajl
 
 tap homebrew/php
-brew composer
 brew php-code-sniffer
 
 tap homebrew/services
@@ -200,8 +201,8 @@ cask soundflowerbed
 cask sourcetree
 cask the-unarchiver
 cask vagrant
-cask virtualbox-extension-pack
 cask virtualbox
+cask virtualbox-extension-pack
 cask visual-studio-code
 cask vlc
 cask wireshark
@@ -234,11 +235,11 @@ pip completion
 
 # App Store applications
 appstore 926707738 Countdowns (1.3.2)
-appstore 847809913 Download Shuttle (2.2)
+appstore 847809913 Download Shuttle (2.3)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (5.0)
 appstore  Install macOS High Sierra (13302)
-appstore 823766827 OneDrive (17.005.0107)
+appstore 823766827 OneDrive (18.025.0204)
 appstore 803453959 Slack (3.1.0)
 appstore 497799835 Xcode (9.2)
