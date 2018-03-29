@@ -134,7 +134,7 @@ brew postgresql
 brew py2cairo
 brew py3cairo
 brew pyenv
-brew pygobject3
+brew pygobject3 --with-python@2
 brew python
 brew python@2
 brew qpdf
