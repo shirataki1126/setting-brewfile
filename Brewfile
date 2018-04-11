@@ -38,6 +38,7 @@ brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew gibo
 brew giflib
 brew git
 brew git-flow
@@ -128,6 +129,7 @@ brew pcre
 brew pcre2
 brew pdf2htmlex
 brew perl
+brew php-code-sniffer
 brew pixman
 brew pkg-config
 brew postgresql
@@ -167,7 +169,6 @@ brew xz
 brew yajl
 
 tap homebrew/php
-brew php-code-sniffer
 
 tap homebrew/services
 
@@ -241,5 +242,5 @@ appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (5.0)
 appstore  Install macOS High Sierra (13302)
 appstore 823766827 OneDrive (18.025.0204)
-appstore 803453959 Slack (3.1.0)
+appstore 803453959 Slack (3.1.1)
 appstore 497799835 Xcode (9.2)
