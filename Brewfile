@@ -38,6 +38,7 @@ brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew ghostscript
 brew gibo
 brew giflib
 brew git
@@ -190,7 +191,6 @@ cask licecap
 cask mactex
 cask mamp
 cask namechanger
-cask netbeans-java-ee
 cask nosleep
 cask onyx
 cask osxfuse
@@ -242,10 +242,9 @@ pip completion
 appstore 926707738 Countdowns (1.3.2)
 appstore 847809913 Download Shuttle (2.3)
 appstore 408981434 iMovie (10.1.8)
-appstore 0 Install macOS High Sierra (13.3.02)
-appstore 1127487414 Install macOS Sierra (12.6.03)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (5.0)
+appstore  Install macOS High Sierra (13302)
 appstore 823766827 OneDrive (18.044.0301)
 appstore 803453959 Slack (3.1.1)
 appstore 497799835 Xcode (9.2)
