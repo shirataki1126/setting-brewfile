@@ -3,6 +3,10 @@
 
 tap homebrew/core
 brew adwaita-icon-theme
+brew apr
+brew apr-util
+brew argon2
+brew aspell
 brew atk
 brew autoconf
 brew autogen
@@ -35,6 +39,7 @@ brew freetype
 brew fribidi
 brew gcc --with-nls
 brew gd
+brew gdb --with-all-targets
 brew gdbm
 brew gdk-pixbuf
 brew gettext
@@ -89,7 +94,9 @@ brew libidn2
 brew libmpc
 brew libosinfo
 brew libpng
+brew libpq
 brew librsvg
+brew libsodium
 brew libsoup
 brew libssh2
 brew libtasn1
@@ -103,6 +110,7 @@ brew libvirt
 brew libvterm
 brew libxml2
 brew libyaml
+brew libzip
 brew little-cms2
 brew llvm --with-toolchain
 brew luajit
@@ -134,6 +142,7 @@ brew pcre
 brew pcre2
 brew pdf2htmlex
 brew perl
+brew php
 brew php-code-sniffer
 brew pixman
 brew pkg-config
@@ -248,8 +257,8 @@ appstore 926707738 Countdowns (1.3.2)
 appstore 847809913 Download Shuttle (2.3)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
-appstore 472226235 LanScan (5.0)
-appstore  Install macOS High Sierra (13302)
+appstore 472226235 LanScan (6.0.1)
+appstore  Install macOS High Sierra (13409)
 appstore 823766827 OneDrive (18.065.0329)
 appstore 803453959 Slack (3.1.1)
 appstore 497799835 Xcode (9.2)
