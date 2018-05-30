@@ -18,8 +18,10 @@ brew boost
 brew brew-cask-completion
 brew brew-gem
 brew brew-pip
+brew brotli
 brew bundler-completion
 brew c-ares
+brew cabextract
 brew cairo
 brew check
 brew cmake
@@ -71,6 +73,7 @@ brew gtk-vnc
 brew guile
 brew harfbuzz
 brew hicolor-icon-theme
+brew httpd
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -137,6 +140,7 @@ brew openssl
 brew openssl@1.1
 brew orc
 brew p11-kit
+brew p7zip
 brew pango
 brew pcre
 brew pcre2
@@ -171,22 +175,22 @@ brew trash-cli
 brew ttfautohint
 brew unibilium
 brew unixodbc
+brew unrar
 brew vagrant-completion
 brew vala
 brew vim
 brew vte3
 brew webp
 brew wget
+brew wine
+brew winetricks
 brew x264
 brew xvid
 brew xz
 brew yajl
+brew zenity
 
-tap homebrew/php
-
-tap homebrew/services
-
-tap caskroom/cask
+tap homebrew/cask
 cask 0xed
 cask au-lab
 cask console
@@ -227,12 +231,16 @@ cask vlc
 cask wireshark
 cask xquartz
 
-tap caskroom/eid
+tap homebrew/cask-eid
 
-tap caskroom/fonts
+tap homebrew/cask-fonts
 
-tap caskroom/versions
+tap homebrew/cask-versions
 cask java8
+
+tap homebrew/php
+
+tap homebrew/services
 
 tap beeftornado/rmtree
 
@@ -257,7 +265,7 @@ appstore 926707738 Countdowns (1.3.2)
 appstore 847809913 Download Shuttle (2.3)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
-appstore 472226235 LanScan (6.0.1)
+appstore 472226235 LanScan (6.0.2)
 appstore  Install macOS High Sierra (13409)
 appstore 823766827 OneDrive (18.065.0329)
 appstore 803453959 Slack (3.1.1)
