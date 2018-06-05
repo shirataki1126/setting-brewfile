@@ -192,44 +192,25 @@ brew zenity
 
 tap homebrew/cask
 cask 0xed
-cask au-lab
 cask console
-cask coteditor
 cask dropbox
-cask etcher
 cask gdisk
-cask gimp
 cask google-hangouts
-cask google-japanese-ime
 cask java
 cask keka
-cask kodi
 cask licecap
-cask mactex
 cask mamp
-cask namechanger
 cask nosleep
-cask onyx
 cask osxfuse
-cask prince
 cask scenebuilder
-cask scilab
 cask sequel-pro
-cask sequential
 cask shupapan
-cask skim
 cask soundflower
-cask soundflowerbed
 cask sourcetree
-cask the-unarchiver
 cask vagrant
-cask vagrant-manager
 cask virtualbox
-cask virtualbox-extension-pack
 cask visual-studio-code
-cask vlc
 cask wireshark
-cask xquartz
 
 tap homebrew/cask-eid
 
@@ -262,13 +243,33 @@ brew brew-file
 # Other pip packages
 pip completion
 
+# Other Cask applications
+cask au-lab
+cask coteditor
+cask etcher
+cask gimp
+cask google-japanese-ime
+cask kodi
+cask mactex
+cask namechanger
+cask onyx
+cask prince
+cask scilab
+cask sequential
+cask skim
+cask soundflowerbed
+cask the-unarchiver
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
+cask xquartz
+
 # App Store applications
 appstore 926707738 Countdowns (1.3.2)
 appstore 847809913 Download Shuttle (2.3)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.0.2)
-appstore Install macOS High Sierra (13409)
 appstore 823766827 OneDrive (18.065.0329)
 appstore 803453959 Slack (3.1.1)
 appstore 497799835 Xcode (9.2)
