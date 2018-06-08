@@ -212,20 +212,10 @@ cask virtualbox
 cask visual-studio-code
 cask wireshark
 
-tap homebrew/cask-eid
-
-tap homebrew/cask-fonts
-
 tap homebrew/cask-versions
 cask java8
 
-tap homebrew/php
-
-tap homebrew/services
-
 tap caskroom/cask
-
-tap beeftornado/rmtree
 
 tap jeffreywildman/virt-manager
 brew libvirt-glib
@@ -234,8 +224,6 @@ brew spice-protocol
 brew usbredir
 brew virt-manager
 brew virt-viewer
-
-tap neovim/neovim
 
 tap rcmdnk/file
 brew brew-file
