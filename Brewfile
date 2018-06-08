@@ -190,6 +190,11 @@ brew xz
 brew yajl
 brew zenity
 
+tap homebrew/cask-versions
+cask java8
+
+tap homebrew/php
+
 tap homebrew/cask
 cask 0xed
 cask console
@@ -197,25 +202,20 @@ cask dropbox
 cask gdisk
 cask google-hangouts
 cask java
-cask keka
-cask licecap
-cask mamp
-cask nosleep
-cask osxfuse
-cask scenebuilder
-cask sequel-pro
-cask shupapan
-cask soundflower
-cask sourcetree
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask wireshark
-
-tap homebrew/cask-versions
-cask java8
-
-tap caskroom/cask
+cask kodi
+cask mactex
+cask namechanger
+cask onyx
+cask prince
+cask scilab
+cask sequential
+cask skim
+cask soundflowerbed
+cask the-unarchiver
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
+cask xquartz
 
 tap jeffreywildman/virt-manager
 brew libvirt-glib
@@ -237,20 +237,20 @@ cask coteditor
 cask etcher
 cask gimp
 cask google-japanese-ime
-cask kodi
-cask mactex
-cask namechanger
-cask onyx
-cask prince
-cask scilab
-cask sequential
-cask skim
-cask soundflowerbed
-cask the-unarchiver
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
-cask xquartz
+cask keka
+cask licecap
+cask mamp
+cask nosleep
+cask osxfuse
+cask scenebuilder
+cask sequel-pro
+cask shupapan
+cask soundflower
+cask sourcetree
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask wireshark
 
 # App Store applications
 appstore 926707738 Countdowns (1.3.2)
@@ -258,6 +258,7 @@ appstore 847809913 Download Shuttle (2.3)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.0.2)
+appstore  Install macOS High Sierra (13409)
 appstore 823766827 OneDrive (18.065.0329)
-appstore 803453959 Slack (3.1.1)
+appstore 803453959 Slack (3.2.0)
 appstore 497799835 Xcode (9.2)
