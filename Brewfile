@@ -204,18 +204,17 @@ cask google-hangouts
 cask java
 cask kodi
 cask mactex
-cask namechanger
-cask onyx
-cask prince
-cask scilab
-cask sequential
-cask skim
-cask soundflowerbed
-cask the-unarchiver
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
-cask xquartz
+cask nosleep
+cask osxfuse
+cask scenebuilder
+cask sequel-pro
+cask shupapan
+cask soundflower
+cask sourcetree
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask wireshark
 
 tap jeffreywildman/virt-manager
 brew libvirt-glib
@@ -240,17 +239,17 @@ cask google-japanese-ime
 cask keka
 cask licecap
 cask mamp
-cask nosleep
-cask osxfuse
-cask scenebuilder
-cask sequel-pro
-cask shupapan
-cask soundflower
-cask sourcetree
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask wireshark
+cask onyx
+cask prince
+cask scilab
+cask sequential
+cask skim
+cask soundflowerbed
+cask the-unarchiver
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
+cask xquartz
 
 # App Store applications
 appstore 926707738 Countdowns (1.3.2)
