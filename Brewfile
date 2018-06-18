@@ -197,40 +197,6 @@ tap homebrew/php
 
 tap homebrew/cask
 cask 0xed
-cask console
-cask dropbox
-cask gdisk
-cask google-hangouts
-cask java
-cask kodi
-cask mactex
-cask nosleep
-cask osxfuse
-cask scenebuilder
-cask sequel-pro
-cask shupapan
-cask soundflower
-cask sourcetree
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask wireshark
-
-tap jeffreywildman/virt-manager
-brew libvirt-glib
-brew spice-gtk
-brew spice-protocol
-brew usbredir
-brew virt-manager
-brew virt-viewer
-
-tap rcmdnk/file
-brew brew-file
-
-# Other pip packages
-pip completion
-
-# Other Cask applications
 cask au-lab
 cask coteditor
 cask etcher
@@ -251,6 +217,41 @@ cask virtualbox-extension-pack
 cask vlc
 cask xquartz
 
+tap jeffreywildman/virt-manager
+brew libvirt-glib
+brew spice-gtk
+brew spice-protocol
+brew usbredir
+brew virt-manager
+brew virt-viewer
+
+tap rcmdnk/file
+brew brew-file
+
+# Other pip packages
+pip completion
+
+# Other Cask applications
+cask adobe-air
+cask console
+cask dropbox
+cask gdisk
+cask google-hangouts
+cask java
+cask kodi
+cask mactex
+cask nosleep
+cask osxfuse
+cask scenebuilder
+cask sequel-pro
+cask shupapan
+cask soundflower
+cask sourcetree
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask wireshark
+
 # App Store applications
 appstore 926707738 Countdowns (1.3.2)
 appstore 847809913 Download Shuttle (2.3)
@@ -259,5 +260,6 @@ appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.0.2)
 appstore  Install macOS High Sierra (13409)
 appstore 823766827 OneDrive (18.065.0329)
+appstore 409201541 Pages (7.1)
 appstore 803453959 Slack (3.2.0)
 appstore 497799835 Xcode (9.2)
