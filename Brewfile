@@ -188,6 +188,7 @@ brew x264
 brew xvid
 brew xz
 brew yajl
+brew youtube-dl
 brew zenity
 
 tap homebrew/cask-versions
@@ -259,7 +260,7 @@ appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.0.2)
 appstore  Install macOS High Sierra (13409)
-appstore 823766827 OneDrive (18.065.0329)
+appstore 823766827 OneDrive (18.091.0506)
 appstore 409201541 Pages (7.1)
 appstore 803453959 Slack (3.2.0)
 appstore 497799835 Xcode (9.2)
