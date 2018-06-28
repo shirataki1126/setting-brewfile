@@ -196,6 +196,8 @@ cask java8
 
 tap homebrew/php
 
+tap homebrew/services
+
 tap homebrew/cask
 cask 0xed
 cask au-lab
