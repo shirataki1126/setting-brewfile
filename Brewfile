@@ -21,6 +21,7 @@ brew brew-pip
 brew brotli
 brew bundler-completion
 brew c-ares
+brew cabal-install
 brew cabextract
 brew cairo
 brew check
@@ -45,6 +46,7 @@ brew gdb --with-all-targets
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew ghc
 brew ghostscript
 brew gibo
 brew giflib
@@ -116,6 +118,7 @@ brew libyaml
 brew libzip
 brew little-cms2
 brew llvm --with-toolchain
+brew lua
 brew luajit
 brew lv
 brew lz4
@@ -141,6 +144,8 @@ brew openssl@1.1
 brew orc
 brew p11-kit
 brew p7zip
+brew pandoc
+brew pandoc-crossref
 brew pango
 brew pcre
 brew pcre2
@@ -167,6 +172,7 @@ brew ruby-build
 brew ruby-completion
 brew shared-mime-info
 brew smartmontools
+brew sphinx-doc
 brew sqlite
 brew ssh-copy-id
 brew tbb
@@ -205,20 +211,20 @@ cask coteditor
 cask etcher
 cask gimp
 cask google-japanese-ime
-cask keka
-cask licecap
-cask mamp
-cask onyx
-cask prince
-cask scilab
-cask sequential
-cask skim
-cask soundflowerbed
-cask the-unarchiver
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
-cask xquartz
+cask jxplorer
+cask kodi
+cask mactex
+cask nosleep
+cask osxfuse
+cask scenebuilder
+cask sequel-pro
+cask shupapan
+cask soundflower
+cask sourcetree
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask wireshark
 
 tap jeffreywildman/virt-manager
 brew libvirt-glib
@@ -241,19 +247,20 @@ cask dropbox
 cask gdisk
 cask google-hangouts
 cask java
-cask kodi
-cask mactex
-cask nosleep
-cask osxfuse
-cask scenebuilder
-cask sequel-pro
-cask shupapan
-cask soundflower
-cask sourcetree
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask wireshark
+cask keka
+cask licecap
+cask mamp
+cask onyx
+cask prince
+cask scilab
+cask sequential
+cask skim
+cask soundflowerbed
+cask the-unarchiver
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
+cask xquartz
 
 # App Store applications
 appstore 926707738 Countdowns (1.3.2)
