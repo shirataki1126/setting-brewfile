@@ -194,6 +194,7 @@ brew ssh-copy-id
 brew taglib
 brew tbb
 brew theora
+brew tidy-html5
 brew tomcat
 brew trash-cli
 brew ttfautohint
