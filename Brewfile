@@ -31,6 +31,7 @@ brew coreutils
 brew ctags
 brew curl --with-libssh2 --with-openssl
 brew dbus
+brew docker
 brew doxygen
 brew dylibbundler
 brew eigen
