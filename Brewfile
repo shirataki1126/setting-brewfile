@@ -285,6 +285,7 @@ cask sourcetree
 cask vagrant
 cask virtualbox
 cask visual-studio-code
+cask voxengo-span-au
 cask wireshark
 
 # App Store applications
