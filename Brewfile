@@ -228,6 +228,7 @@ tap homebrew/cask
 cask 0xed
 cask android-file-transfer
 cask console
+cask docker
 cask dropbox
 cask gdisk
 cask google-hangouts
