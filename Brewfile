@@ -30,6 +30,7 @@ brew composer
 brew coreutils
 brew ctags
 brew curl --with-libssh2 --with-openssl
+brew curl-openssl
 brew dbus
 brew docker
 brew doxygen
@@ -128,7 +129,7 @@ brew libxml2
 brew libyaml
 brew libzip
 brew little-cms2
-brew llvm --with-toolchain
+brew llvm
 brew lua
 brew luajit
 brew lv
@@ -150,6 +151,7 @@ brew openblas
 brew opencv
 brew openexr
 brew openjpeg
+brew openldap
 brew openmotif
 brew openssh
 brew openssl
@@ -230,7 +232,6 @@ cask 0xed
 cask android-file-transfer
 cask console
 cask docker
-cask dropbox
 cask gdisk
 cask google-hangouts
 cask java
@@ -238,15 +239,16 @@ cask keka
 cask licecap
 cask mamp
 cask onyx
-cask prince
-cask scilab
-cask sequential
-cask skim
-cask soundflowerbed
-cask the-unarchiver
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
+cask phantomjs
+cask scenebuilder
+cask sequel-pro
+cask shupapan
+cask soundflower
+cask sourcetree
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask voxengo-span-au
 cask xquartz
 
 tap jeffreywildman/virt-manager
@@ -269,6 +271,7 @@ pip completion
 cask adobe-air
 cask au-lab
 cask coteditor
+cask dropbox
 cask etcher
 cask gimp
 cask google-japanese-ime
@@ -277,15 +280,15 @@ cask kodi
 cask mactex
 cask nosleep
 cask osxfuse
-cask scenebuilder
-cask sequel-pro
-cask shupapan
-cask soundflower
-cask sourcetree
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask voxengo-span-au
+cask prince
+cask scilab
+cask sequential
+cask skim
+cask soundflowerbed
+cask the-unarchiver
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
 cask wireshark
 
 # App Store applications
