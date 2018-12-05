@@ -63,6 +63,7 @@ brew glib-networking
 brew gmp
 brew gnu-getopt
 brew gnutls
+brew go
 brew gobject-introspection
 brew gradle
 brew gradle-completion
@@ -235,7 +236,8 @@ cask console
 cask docker
 cask gdisk
 cask google-hangouts
-cask java
+cask google-web-designer
+cask jxplorer
 cask keka
 cask licecap
 cask mamp
@@ -278,7 +280,8 @@ cask dropbox
 cask etcher
 cask gimp
 cask google-japanese-ime
-cask jxplorer
+cask java
+cask karabiner-elements
 cask kodi
 cask mactex
 cask nosleep
@@ -298,9 +301,11 @@ cask wireshark
 appstore 926707738 Countdowns (1.3.2)
 appstore 847809913 Download Shuttle (2.4)
 appstore 408981434 iMovie (10.1.8)
+appstore 0 Install macOS High Sierra (13.4.09)
+appstore 1398502828 Install macOS Mojave (14.1.0)
+appstore 1127487414 Install macOS Sierra (12.6.03)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.0.4)
-appstore  Install macOS High Sierra (13409)
 appstore 823766827 OneDrive (18.175.0826)
 appstore 409201541 Pages (7.1)
 appstore 803453959 Slack (3.3.3)
