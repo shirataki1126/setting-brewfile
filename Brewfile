@@ -29,7 +29,7 @@ brew cmake
 brew composer
 brew coreutils
 brew ctags
-brew curl --with-libssh2 --with-openssl
+brew curl --with-libssh2 --with-gssapi --with-libmetalink --with-nghttp2 --with-rtmpdump --with-c-ares
 brew curl-openssl
 brew dbus
 brew docker
@@ -47,7 +47,7 @@ brew freetype
 brew fribidi
 brew gcc --with-nls
 brew gd
-brew gdb --with-all-targets
+brew gdb
 brew gdbm
 brew gdk-pixbuf
 brew gettext
@@ -103,9 +103,11 @@ brew libgcrypt
 brew libgpg-error
 brew libiconv
 brew libidn2
+brew libmetalink
 brew libmms
 brew libmpc
 brew libogg
+brew libomp
 brew libosinfo
 brew libpng
 brew libpq
@@ -123,6 +125,7 @@ brew libunistring
 brew libusb
 brew libuv
 brew libvirt
+brew libvirt-glib
 brew libvorbis
 brew libvpx
 brew libvterm
@@ -185,6 +188,7 @@ brew qt
 brew rbenv
 brew readline
 brew rename
+brew rtmpdump
 brew ruby
 brew ruby-build
 brew ruby-completion
@@ -194,6 +198,7 @@ brew smartmontools
 brew snappy
 brew speex
 brew sphinx-doc
+brew spice-protocol
 brew sqlite
 brew ssh-copy-id
 brew taglib
@@ -201,6 +206,7 @@ brew tbb
 brew theora
 brew tidy-html5
 brew tomcat
+brew trash
 brew trash-cli
 brew ttfautohint
 brew unibilium
@@ -231,16 +237,16 @@ tap homebrew/services
 
 tap homebrew/cask
 cask 0xed
-cask android-file-transfer
-cask console
-cask docker
+cask amazon-music
+cask au-lab
+cask coteditor
+cask dropbox
 cask gdisk
 cask google-hangouts
 cask google-web-designer
-cask jxplorer
-cask keka
-cask licecap
-cask mamp
+cask karabiner-elements
+cask kodi
+cask mactex
 cask onyx
 cask phantomjs
 cask scenebuilder
@@ -255,11 +261,9 @@ cask voxengo-span-au
 cask xquartz
 
 tap jeffreywildman/virt-manager
-brew libvirt-glib
 brew osinfo-db
 brew osinfo-db-tools
 brew spice-gtk
-brew spice-protocol
 brew usbredir
 brew virt-manager
 brew virt-viewer
@@ -274,16 +278,16 @@ pip completion
 
 # Other Cask applications
 cask adobe-air
-cask au-lab
-cask coteditor
-cask dropbox
+cask android-file-transfer
+cask console
+cask docker
 cask etcher
 cask gimp
 cask google-japanese-ime
 cask java
-cask karabiner-elements
-cask kodi
-cask mactex
+cask jxplorer
+cask keka
+cask licecap
 cask nosleep
 cask osxfuse
 cask prince
@@ -302,9 +306,9 @@ appstore 926707738 Countdowns (1.3.2)
 appstore 847809913 Download Shuttle (2.4)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
-appstore 472226235 LanScan (6.0.4)
+appstore 472226235 LanScan (6.0.5)
 appstore  Install macOS High Sierra (13409)
-appstore 823766827 OneDrive (18.175.0826)
+appstore 823766827 OneDrive (18.214.1021)
 appstore 409201541 Pages (7.1)
-appstore 803453959 Slack (3.3.3)
+appstore 803453959 Slack (3.3.4)
 appstore 497799835 Xcode (9.2)
