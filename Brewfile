@@ -78,6 +78,7 @@ brew gst-plugins-ugly
 brew gstreamer
 brew gtk+3
 brew gtk-vnc
+brew gts
 brew guile
 brew harfbuzz
 brew hicolor-icon-theme
@@ -88,6 +89,7 @@ brew imagemagick
 brew intltool
 brew isl
 brew jansson
+brew jasper
 brew jemalloc
 brew jpeg
 brew jq
@@ -102,6 +104,7 @@ brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libiconv
+brew libidn
 brew libidn2
 brew libmetalink
 brew libmms
@@ -145,6 +148,7 @@ brew msgpack
 brew mupdf
 brew mysql
 brew neovim
+brew netpbm
 brew nettle
 brew nghttp2
 brew ninja
@@ -254,11 +258,11 @@ cask sequel-pro
 cask shupapan
 cask soundflower
 cask sourcetree
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask voxengo-span-au
-cask xquartz
+cask the-unarchiver
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
+cask wireshark
 
 tap jeffreywildman/virt-manager
 brew osinfo-db
@@ -295,20 +299,23 @@ cask scilab
 cask sequential
 cask skim
 cask soundflowerbed
-cask the-unarchiver
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
-cask wireshark
+cask steam
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask voxengo-span-au
+cask xquartz
 
 # App Store applications
 appstore 926707738 Countdowns (1.3.2)
 appstore 847809913 Download Shuttle (2.4)
 appstore 408981434 iMovie (10.1.8)
+appstore 0 Install macOS High Sierra (13.4.09)
+appstore 1398502828 Install macOS Mojave (14.1.0)
+appstore 1127487414 Install macOS Sierra (12.6.03)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.0.5)
-appstore  Install macOS High Sierra (13409)
-appstore 823766827 OneDrive (18.214.1021)
+appstore 823766827 OneDrive (18.240.1202)
 appstore 409201541 Pages (7.1)
-appstore 803453959 Slack (3.3.4)
+appstore 803453959 Slack (3.3.7)
 appstore 497799835 Xcode (9.2)
