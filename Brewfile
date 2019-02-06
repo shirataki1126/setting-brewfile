@@ -45,6 +45,7 @@ brew fontconfig
 brew freetds
 brew freetype
 brew fribidi
+brew gawk
 brew gcc --with-nls
 brew gd
 brew gdb
@@ -209,6 +210,7 @@ brew taglib
 brew tbb
 brew theora
 brew tidy-html5
+brew tmux
 brew tomcat
 brew trash
 brew trash-cli
