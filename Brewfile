@@ -143,11 +143,9 @@ brew luajit
 brew lv
 brew lz4
 brew mas
-brew meson
 brew mpfr
 brew msgpack
 brew mupdf
-brew mysql
 brew neovim
 brew netpbm
 brew nettle
@@ -211,7 +209,6 @@ brew tbb
 brew theora
 brew tidy-html5
 brew tmux
-brew tomcat
 brew trash
 brew trash-cli
 brew tree
