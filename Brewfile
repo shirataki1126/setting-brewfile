@@ -219,6 +219,7 @@ brew ttfautohint
 brew unibilium
 brew unixodbc
 brew unrar
+brew usbredir
 brew vagrant-completion
 brew vala
 brew vim
@@ -247,7 +248,7 @@ cask 0xed
 cask amazon-music
 cask au-lab
 cask coteditor
-cask dropbox
+cask dotnet-sdk
 cask gdisk
 cask google-hangouts
 cask google-web-designer
@@ -271,7 +272,6 @@ tap jeffreywildman/virt-manager
 brew osinfo-db
 brew osinfo-db-tools
 brew spice-gtk
-brew usbredir
 brew virt-manager
 brew virt-viewer
 
@@ -288,6 +288,7 @@ cask adobe-air
 cask android-file-transfer
 cask console
 cask docker
+cask dropbox
 cask etcher
 cask gimp
 cask google-japanese-ime
@@ -315,7 +316,7 @@ appstore 847809913 Download Shuttle (2.4)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.0.5)
-appstore  Install macOS High Sierra (13409)
+appstore Install macOS High Sierra (13409)
 appstore 823766827 OneDrive (18.240.1202)
 appstore 409201541 Pages (7.1)
 appstore 803453959 Slack (3.3.7)
