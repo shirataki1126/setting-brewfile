@@ -226,7 +226,6 @@ brew theora
 brew tidy-html5
 brew tmux
 brew trash
-brew trash-cli
 brew tree
 brew ttfautohint
 brew unibilium
