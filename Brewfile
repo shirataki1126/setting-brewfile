@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew adwaita-icon-theme
+brew aom
 brew apr
 brew apr-util
 brew argon2
@@ -29,7 +30,7 @@ brew cmake
 brew composer
 brew coreutils
 brew ctags
-brew curl --with-libssh2 --with-gssapi --with-libmetalink --with-nghttp2 --with-rtmpdump --with-c-ares
+brew curl
 brew curl-openssl
 brew dbus
 brew docker
@@ -44,9 +45,10 @@ brew flac
 brew fontconfig
 brew freetds
 brew freetype
+brew frei0r
 brew fribidi
 brew gawk
-brew gcc --with-nls
+brew gcc
 brew gd
 brew gdb
 brew gdbm
@@ -94,16 +96,22 @@ brew jasper
 brew jemalloc
 brew jpeg
 brew jq
+brew json-glib
 brew lame
+brew leptonica
 brew lha
 brew libarchive
+brew libass
+brew libbluray
 brew libcroco
+brew libde265
 brew libepoxy
 brew libev
 brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libheif
 brew libiconv
 brew libidn
 brew libidn2
@@ -117,9 +125,12 @@ brew libpng
 brew libpq
 brew libpsl
 brew librsvg
+brew libsamplerate
 brew libshout
+brew libsndfile
 brew libsodium
 brew libsoup
+brew libsoxr
 brew libssh2
 brew libtasn1
 brew libtermkey
@@ -156,6 +167,7 @@ brew ntfs-3g
 brew numpy
 brew oniguruma
 brew openblas
+brew opencore-amr
 brew opencv
 brew openexr
 brew openjpeg
@@ -184,6 +196,7 @@ brew py2cairo
 brew py3cairo
 brew pyenv
 brew pygobject3 --with-python@2
+brew pyqt
 brew python
 brew python@2
 brew qpdf
@@ -192,11 +205,13 @@ brew rbenv
 brew readline
 brew rename
 brew rtmpdump
+brew rubberband
 brew ruby
 brew ruby-build
 brew ruby-completion
 brew sdl2
 brew shared-mime-info
+brew sip
 brew smartmontools
 brew snappy
 brew speex
@@ -206,6 +221,7 @@ brew sqlite
 brew ssh-copy-id
 brew taglib
 brew tbb
+brew tesseract
 brew theora
 brew tidy-html5
 brew tmux
@@ -216,6 +232,7 @@ brew ttfautohint
 brew unibilium
 brew unixodbc
 brew unrar
+brew usbredir
 brew vagrant-completion
 brew vala
 brew vim
@@ -243,11 +260,12 @@ tap homebrew/cask
 cask 0xed
 cask amazon-music
 cask au-lab
-cask coteditor
-cask dotnet-sdk
-cask gdisk
-cask google-hangouts
-cask google-web-designer
+cask console
+cask docker
+cask dropbox
+cask gimp
+cask google-japanese-ime
+cask java
 cask karabiner-elements
 cask kodi
 cask mactex
@@ -282,13 +300,12 @@ pip completion
 # Other Cask applications
 cask adobe-air
 cask android-file-transfer
-cask console
-cask docker
-cask dropbox
-cask balenaetcher 
-cask gimp
-cask google-japanese-ime
-cask java
+cask balenaetcher
+cask coteditor
+cask dotnet-sdk
+cask gdisk
+cask google-hangouts
+cask google-web-designer
 cask jxplorer
 cask keka
 cask licecap
@@ -312,8 +329,8 @@ appstore 847809913 Download Shuttle (2.4)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.0.5)
-appstore Install macOS High Sierra (13409)
-appstore 823766827 OneDrive (18.240.1202)
+appstore  Install macOS High Sierra (13409)
+appstore 823766827 OneDrive (19.002.0107)
 appstore 409201541 Pages (7.1)
 appstore 803453959 Slack (3.3.7)
 appstore 497799835 Xcode (9.2)
