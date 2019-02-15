@@ -216,7 +216,6 @@ brew ttfautohint
 brew unibilium
 brew unixodbc
 brew unrar
-brew usbredir
 brew vagrant-completion
 brew vala
 brew vim
@@ -286,7 +285,7 @@ cask android-file-transfer
 cask console
 cask docker
 cask dropbox
-cask etcher
+cask balenaetcher 
 cask gimp
 cask google-japanese-ime
 cask java
