@@ -259,12 +259,11 @@ cask 0xed
 cask amazon-music
 cask au-lab
 cask console
-cask discord
-cask dotnet-sdk
-cask gdisk
-cask gitup
-cask google-japanese-ime
-cask java
+cask docker
+cask dropbox
+cask gimp
+cask google-hangouts
+cask google-web-designer
 cask karabiner-elements
 cask kodi
 cask mactex
@@ -301,11 +300,11 @@ cask adobe-air
 cask android-file-transfer
 cask balenaetcher
 cask coteditor
-cask docker
-cask dropbox
-cask gimp
-cask google-hangouts
-cask google-web-designer
+cask dotnet-sdk
+cask gdisk
+cask gitup
+cask google-japanese-ime
+cask java
 cask jxplorer
 cask keka
 cask licecap
@@ -329,7 +328,7 @@ appstore 847809913 Download Shuttle (2.4)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.0.6)
-appstore  Install macOS High Sierra (13409)
+appstore Install macOS High Sierra (13409)
 appstore 823766827 OneDrive (19.002.0107)
 appstore 409201541 Pages (7.1)
 appstore 803453959 Slack (3.3.7)
