@@ -252,8 +252,6 @@ brew zenity
 tap homebrew/cask-versions
 cask java8
 
-tap homebrew/php
-
 tap homebrew/services
 
 tap homebrew/cask
@@ -330,8 +328,8 @@ appstore 926707738 Countdowns (1.3.2)
 appstore 847809913 Download Shuttle (2.4)
 appstore 408981434 iMovie (10.1.8)
 appstore 408981381 iPhoto (9.6.1)
-appstore 472226235 LanScan (6.0.5)
-appstore Install macOS High Sierra (13409)
+appstore 472226235 LanScan (6.0.6)
+appstore  Install macOS High Sierra (13409)
 appstore 823766827 OneDrive (19.002.0107)
 appstore 409201541 Pages (7.1)
 appstore 803453959 Slack (3.3.7)
