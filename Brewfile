@@ -98,6 +98,7 @@ brew jpeg
 brew jq
 brew json-glib
 brew lame
+brew ldns
 brew leptonica
 brew lha
 brew libarchive
@@ -157,6 +158,7 @@ brew mas
 brew mpfr
 brew msgpack
 brew mupdf
+brew ncurses
 brew neovim
 brew netpbm
 brew nettle
@@ -195,7 +197,7 @@ brew postgresql
 brew py2cairo
 brew py3cairo
 brew pyenv
-brew pygobject3 --with-python@2
+brew pygobject3
 brew pyqt
 brew python
 brew python@2
@@ -229,6 +231,7 @@ brew tmux
 brew trash
 brew tree
 brew ttfautohint
+brew unbound
 brew unibilium
 brew unixodbc
 brew unrar
@@ -262,16 +265,17 @@ cask console
 cask docker
 cask dropbox
 cask gimp
-cask google-hangouts
-cask google-web-designer
-cask karabiner-elements
-cask kodi
-cask mactex
-cask onyx
-cask osxfuse
-cask prince
-cask sequel-pro
-cask shupapan
+cask google-chrome
+cask google-japanese-ime
+cask java
+cask keka
+cask licecap
+cask nosleep
+cask oracle-jdk
+cask phantomjs
+cask scenebuilder
+cask sequential
+cask skim
 cask soundflower
 cask sourcetree
 cask the-unarchiver
@@ -303,17 +307,17 @@ cask coteditor
 cask dotnet-sdk
 cask gdisk
 cask gitup
-cask google-japanese-ime
-cask java
-cask jxplorer
-cask keka
-cask licecap
-cask nosleep
-cask oracle-jdk
-cask phantomjs
-cask scenebuilder
-cask sequential
-cask skim
+cask google-hangouts
+cask google-web-designer
+cask karabiner-elements
+cask kodi
+cask mactex
+cask onyx
+cask osxfuse
+cask prince
+cask sequel-pro
+cask shupapan
+cask slack
 cask soundflowerbed
 cask steam
 cask vagrant
@@ -323,13 +327,12 @@ cask voxengo-span-au
 cask xquartz
 
 # App Store applications
-appstore 926707738 Countdowns (1.3.2)
-appstore 847809913 Download Shuttle (2.4)
-appstore 408981434 iMovie (10.1.8)
-appstore 408981381 iPhoto (9.6.1)
-appstore 472226235 LanScan (6.0.6)
-appstore Install macOS High Sierra (13409)
-appstore 823766827 OneDrive (19.002.0107)
-appstore 409201541 Pages (7.1)
-appstore 803453959 Slack (3.3.7)
-appstore 497799835 Xcode (9.2)
+appstore 497799835 com.apple.dt.Xcode (10.2)
+appstore 408981434 com.apple.iMovieApp (10.1.11)
+appstore 408981381 com.apple.iPhoto (9.6.1)
+appstore 409201541 com.apple.iWork.Pages (8.0)
+appstore 847809913 com.fiplab.downloadmanager (2.4)
+appstore 472226235 com.iwaxx.LanScan (6.1.0)
+appstore 823766827 com.microsoft.OneDrive-mac (19.033.0218)
+appstore 803453959 com.tinyspeck.slackmacgap (3.3.8)
+appstore 926707738 de.msmix.countdown.osx (1.3.2)
