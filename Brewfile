@@ -270,6 +270,7 @@ cask google-japanese-ime
 cask java
 cask keka
 cask licecap
+cask microsoft-office
 cask nosleep
 cask oracle-jdk
 cask phantomjs
@@ -281,8 +282,9 @@ cask sourcetree
 cask the-unarchiver
 cask vagrant-manager
 cask virtualbox-extension-pack
-cask vlc
-cask wireshark
+cask visual-studio-code
+cask voxengo-span-au
+cask xquartz
 
 tap jeffreywildman/virt-manager
 brew osinfo-db
@@ -312,6 +314,7 @@ cask google-web-designer
 cask karabiner-elements
 cask kodi
 cask mactex
+cask mono-mdk
 cask onyx
 cask osxfuse
 cask prince
@@ -322,9 +325,9 @@ cask soundflowerbed
 cask steam
 cask vagrant
 cask virtualbox
-cask visual-studio-code
-cask voxengo-span-au
-cask xquartz
+cask visual-studio
+cask vlc
+cask wireshark
 
 # App Store applications
 appstore 497799835 com.apple.dt.Xcode (10.2)
@@ -333,6 +336,5 @@ appstore 408981381 com.apple.iPhoto (9.6.1)
 appstore 409201541 com.apple.iWork.Pages (8.0)
 appstore 847809913 com.fiplab.downloadmanager (2.4)
 appstore 472226235 com.iwaxx.LanScan (6.1.0)
-appstore 823766827 com.microsoft.OneDrive-mac (19.033.0218)
 appstore 803453959 com.tinyspeck.slackmacgap (3.3.8)
 appstore 926707738 de.msmix.countdown.osx (1.3.2)
