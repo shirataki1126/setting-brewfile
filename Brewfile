@@ -34,6 +34,7 @@ brew curl
 brew curl-openssl
 brew dbus
 brew docker
+brew docker-compose
 brew doxygen
 brew dylibbundler
 brew eigen
