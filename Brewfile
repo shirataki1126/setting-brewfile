@@ -284,7 +284,7 @@ cask vagrant-manager
 cask virtualbox-extension-pack
 cask visual-studio-code
 cask voxengo-span-au
-cask xquartz
+cask wireshark
 
 tap jeffreywildman/virt-manager
 brew osinfo-db
@@ -327,7 +327,8 @@ cask vagrant
 cask virtualbox
 cask visual-studio
 cask vlc
-cask wireshark
+cask wavesurfer
+cask xquartz
 
 # App Store applications
 appstore 497799835 com.apple.dt.Xcode (10.2)
