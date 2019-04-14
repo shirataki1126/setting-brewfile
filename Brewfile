@@ -156,6 +156,7 @@ brew luajit
 brew lv
 brew lz4
 brew mas
+brew mono
 brew mpfr
 brew msgpack
 brew mupdf
@@ -212,6 +213,7 @@ brew rubberband
 brew ruby
 brew ruby-build
 brew ruby-completion
+brew scriptcs
 brew sdl2
 brew shared-mime-info
 brew sip
