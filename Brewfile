@@ -333,6 +333,7 @@ cask xquartz
 
 # App Store applications
 appstore 497799835 com.apple.dt.Xcode (10.2)
+appstore 682658836 com.apple.garageband10 (10.3.2)
 appstore 408981434 com.apple.iMovieApp (10.1.11)
 appstore 408981381 com.apple.iPhoto (9.6.1)
 appstore 409201541 com.apple.iWork.Pages (8.0)
