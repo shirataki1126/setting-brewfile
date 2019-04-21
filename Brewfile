@@ -256,7 +256,6 @@ brew youtube-dl
 brew zenity
 
 tap homebrew/cask-versions
-cask java8
 
 tap homebrew/services
 
@@ -271,23 +270,23 @@ cask gimp
 cask google-backup-and-sync
 cask google-japanese-ime
 cask java
-cask keka
-cask licecap
-cask microsoft-office
-cask nosleep
-cask oracle-jdk
-cask phantomjs
-cask sequel-pro
-cask shupapan
-cask slack
-cask soundflowerbed
-cask steam
-cask vagrant
-cask virtualbox
-cask visual-studio
-cask vlc
-cask wavesurfer
-cask xquartz
+cask karabiner-elements
+cask kodi
+cask mactex
+cask mono-mdk
+cask onyx
+cask osxfuse
+cask prince
+cask sequential
+cask skim
+cask soundflower
+cask sourcetree
+cask the-unarchiver
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask visual-studio-code
+cask voxengo-span-au
+cask wireshark
 
 tap jeffreywildman/virt-manager
 brew osinfo-db
@@ -314,31 +313,32 @@ cask gdisk
 cask gitup
 cask google-chrome
 cask google-web-designer
-cask karabiner-elements
-cask kodi
-cask mactex
-cask mono-mdk
-cask onyx
-cask osxfuse
-cask prince
-cask sequential
-cask skim
-cask soundflower
-cask sourcetree
-cask the-unarchiver
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask visual-studio-code
-cask voxengo-span-au
-cask wireshark
+cask java8
+cask keka
+cask licecap
+cask microsoft-office
+cask nosleep
+cask oracle-jdk
+cask phantomjs
+cask sequel-pro
+cask shupapan
+cask slack
+cask soundflowerbed
+cask steam
+cask vagrant
+cask virtualbox
+cask visual-studio
+cask vlc
+cask wavesurfer
+cask xquartz
 
 # App Store applications
-appstore 497799835 com.apple.dt.Xcode (10.2)
+appstore 497799835 com.apple.dt.Xcode (10.2.1)
 appstore 682658836 com.apple.garageband10 (10.3.2)
 appstore 408981434 com.apple.iMovieApp (10.1.11)
 appstore 408981381 com.apple.iPhoto (9.6.1)
 appstore 409201541 com.apple.iWork.Pages (8.0)
 appstore 847809913 com.fiplab.downloadmanager (2.4)
 appstore 472226235 com.iwaxx.LanScan (6.1.0)
-appstore 803453959 com.tinyspeck.slackmacgap (3.3.8)
+appstore 803453959 com.tinyspeck.slackmacgap (3.4.0)
 appstore 926707738 de.msmix.countdown.osx (1.3.2)
