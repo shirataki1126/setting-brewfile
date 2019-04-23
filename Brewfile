@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew adwaita-icon-theme
+brew aircrack-ng
 brew aom
 brew apr
 brew apr-util
@@ -269,7 +270,7 @@ cask dropbox
 cask gimp
 cask google-backup-and-sync
 cask google-japanese-ime
-cask java
+cask inkscape
 cask karabiner-elements
 cask kodi
 cask mactex
@@ -313,6 +314,7 @@ cask gdisk
 cask gitup
 cask google-chrome
 cask google-web-designer
+cask java
 cask java8
 cask keka
 cask licecap
