@@ -282,12 +282,13 @@ cask sequential
 cask skim
 cask soundflower
 cask sourcetree
-cask the-unarchiver
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask visual-studio-code
-cask voxengo-span-au
-cask wireshark
+cask tftpserver
+cask vagrant
+cask virtualbox
+cask visual-studio
+cask vlc
+cask wavesurfer
+cask xquartz
 
 tap jeffreywildman/virt-manager
 brew osinfo-db
@@ -327,12 +328,12 @@ cask shupapan
 cask slack
 cask soundflowerbed
 cask steam
-cask vagrant
-cask virtualbox
-cask visual-studio
-cask vlc
-cask wavesurfer
-cask xquartz
+cask the-unarchiver
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask visual-studio-code
+cask voxengo-span-au
+cask wireshark
 
 # App Store applications
 appstore 497799835 com.apple.dt.Xcode (10.2.1)
