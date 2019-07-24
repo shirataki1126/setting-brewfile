@@ -84,6 +84,7 @@ brew gst-plugins-ugly
 brew gstreamer
 brew gtk+3
 brew gtk-vnc
+brew gtksourceview4
 brew gts
 brew guile
 brew harfbuzz
@@ -122,6 +123,7 @@ brew libidn2
 brew libmetalink
 brew libmms
 brew libmpc
+brew libnice
 brew libogg
 brew libomp
 brew libosinfo
@@ -157,6 +159,7 @@ brew lua
 brew luajit
 brew lv
 brew lz4
+brew lzo
 brew mas
 brew mono
 brew mpfr
@@ -187,6 +190,7 @@ brew orc
 brew p11-kit
 brew p7zip
 brew pandoc
+brew pandoc-citeproc
 brew pandoc-crossref
 brew pango
 brew pcre
@@ -223,9 +227,12 @@ brew smartmontools
 brew snappy
 brew speex
 brew sphinx-doc
+brew spice-gtk
 brew spice-protocol
 brew sqlite
+brew srtp
 brew ssh-copy-id
+brew swig
 brew taglib
 brew tbb
 brew tesseract
@@ -285,6 +292,7 @@ cask slack
 cask soundflowerbed
 cask steam
 cask vagrant
+cask virtualbox
 cask visual-studio
 cask vlc
 cask wavesurfer
@@ -293,7 +301,6 @@ cask xquartz
 tap jeffreywildman/virt-manager
 brew osinfo-db
 brew osinfo-db-tools
-brew spice-gtk
 brew virt-manager
 brew virt-viewer
 
@@ -315,8 +322,6 @@ cask gdisk
 cask gitup
 cask google-chrome
 cask google-web-designer
-cask https://raw.githubusercontent.com/Homebrew/homebrew-cask/942dceda2fece65bac2b122a301ca6943f6b7190/Casks/virtualbox-extension-pack.rb
-cask https://raw.githubusercontent.com/caskroom/homebrew-cask/d7f8219fa51f7c96a17c346acfab547a6af7f956/Casks/virtualbox.rb
 cask java
 cask java8
 cask keka
@@ -332,17 +337,18 @@ cask soundflower
 cask sourcetree
 cask the-unarchiver
 cask vagrant-manager
+cask virtualbox-extension-pack
 cask visual-studio-code
 cask voxengo-span-au
 cask wireshark
 
 # App Store applications
-appstore 497799835 com.apple.dt.Xcode (10.2.1)
-appstore 682658836 com.apple.garageband10 (10.3.2)
-appstore 408981434 com.apple.iMovieApp (10.1.11)
-appstore 408981381 com.apple.iPhoto (9.6.1)
-appstore 409201541 com.apple.iWork.Pages (8.0)
-appstore 847809913 com.fiplab.downloadmanager (2.4)
-appstore 472226235 com.iwaxx.LanScan (6.1.0)
-appstore 803453959 com.tinyspeck.slackmacgap (3.4.0)
-appstore 926707738 de.msmix.countdown.osx (1.3.2)
+appstore 926707738 Countdowns (1.3.2)
+appstore 847809913 Download Shuttle (2.4)
+appstore 682658836 GarageBand (10.3.2)
+appstore 408981434 iMovie (10.1.11)
+appstore 408981381 iPhoto (9.6.1)
+appstore 472226235 LanScan (6.2.0)
+appstore 409201541 Pages (8.0)
+appstore 803453959 Slack (3.4.0)
+appstore 497799835 Xcode (10.2.1)
