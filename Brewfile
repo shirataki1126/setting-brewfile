@@ -27,6 +27,7 @@ brew c-ares
 brew cabal-install
 brew cabextract
 brew cairo
+brew ceres-solver
 brew check
 brew cmake
 brew composer
@@ -57,6 +58,7 @@ brew gdb
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew gflags
 brew ghc
 brew ghostscript
 brew gibo
@@ -66,6 +68,7 @@ brew git-flow
 brew git-lfs
 brew glib
 brew glib-networking
+brew glog
 brew gmp
 brew gnu-getopt
 brew gnutls
@@ -161,6 +164,7 @@ brew lv
 brew lz4
 brew lzo
 brew mas
+brew metis
 brew mono
 brew mpfr
 brew msgpack
@@ -232,6 +236,7 @@ brew spice-protocol
 brew sqlite
 brew srtp
 brew ssh-copy-id
+brew suite-sparse
 brew swig
 brew taglib
 brew tbb
@@ -350,5 +355,5 @@ appstore 408981434 iMovie (10.1.12)
 appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.2.1)
 appstore 409201541 Pages (8.1)
-appstore 803453959 Slack (4.0.0)
+appstore 803453959 Slack (4.0.2)
 appstore 497799835 Xcode (10.3)
