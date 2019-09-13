@@ -259,6 +259,7 @@ brew vim
 brew vte3
 brew webp
 brew wget
+brew whois
 brew wine
 brew winetricks
 brew x264
