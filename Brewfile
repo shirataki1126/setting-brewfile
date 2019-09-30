@@ -148,6 +148,7 @@ brew libtool
 brew libunistring
 brew libusb
 brew libuv
+brew libvidstab
 brew libvirt
 brew libvirt-glib
 brew libvorbis
@@ -289,21 +290,21 @@ cask java
 cask karabiner-elements
 cask kodi
 cask mactex
-cask microsoft-teams
-cask nosleep
-cask oracle-jdk
-cask phantomjs
-cask sequel-pro
-cask shupapan
-cask slack
-cask soundflowerbed
-cask steam
-cask vagrant
-cask virtualbox
-cask visual-studio
-cask vlc
-cask wavesurfer
-cask xquartz
+cask microsoft-office
+cask mono-mdk
+cask onyx
+cask osxfuse
+cask prince
+cask sequential
+cask skim
+cask soundflower
+cask sourcetree
+cask the-unarchiver
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask visual-studio-code
+cask voxengo-span-au
+cask wireshark
 
 tap jeffreywildman/virt-manager
 brew osinfo-db
@@ -333,21 +334,22 @@ cask inkscape
 cask java8
 cask keka
 cask licecap
-cask microsoft-office
-cask mono-mdk
-cask onyx
-cask osxfuse
-cask prince
-cask sequential
-cask skim
-cask soundflower
-cask sourcetree
-cask the-unarchiver
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask visual-studio-code
-cask voxengo-span-au
-cask wireshark
+cask mamp
+cask microsoft-teams
+cask nosleep
+cask oracle-jdk
+cask phantomjs
+cask sequel-pro
+cask shupapan
+cask slack
+cask soundflowerbed
+cask steam
+cask vagrant
+cask virtualbox
+cask visual-studio
+cask vlc
+cask wavesurfer
+cask xquartz
 
 # App Store applications
 appstore 926707738 Countdowns (1.3.2)
@@ -358,4 +360,4 @@ appstore 408981381 iPhoto (9.6.1)
 appstore 472226235 LanScan (6.2.1)
 appstore 409201541 Pages (8.1)
 appstore 803453959 Slack (4.0.3)
-appstore 497799835 Xcode (10.3)
+appstore 497799835 Xcode (11.0)
